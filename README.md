@@ -190,3 +190,7 @@ docker-compose logs -f postgres
 - [Docker Compose Documentation](https://docs.docker.com/compose/)
 - [FastAPI Documentation](https://fastapi.tiangolo.com/)
 - [React Documentation](https://react.dev/)
+
+## Built with GitHub Copilot
+
+This project was built with the assistance of GitHub Copilot Agent, demonstrating the power of AI-assisted development for rapid prototyping and learning Docker containerization patterns.
